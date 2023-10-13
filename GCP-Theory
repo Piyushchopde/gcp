@@ -10,10 +10,17 @@ compute Engine: its customize compute service with the help of that we can creat
                - you can attched local SSD upto 3 TB and persistent disk up to size 64 TB that to encrepted as well 
                - Booting time is less than 30 sec 
                - Types of Predefind VMs : 
-                               - General Purpose 
-                               - Compute Optimize 
-                               - Memory Optimize 
-                               - Sole Tenant Node 
-                               - Shared Core 
-                               - Acceleratore Optimize 
+                               - General Purpose : E2,N1,N2,N2D,Tau,T2D
+                               - Compute Optimize :C2,C2D
+                               - Memory Optimize : M1,M2
+                               - Sole Tenant Node : Dedicated server provide to customer 
+                               - Shared Core : shared core share there core with other customer 
+                               - Acceleratore Optimize: A2
+               - Pricing Model : 
+                          - Sustained Use Discount similar as On-demand in AWS 
+                          - Commited Use Discount similar as Reserved instance 
+                          - Spot 
+                                 
+
+
 
