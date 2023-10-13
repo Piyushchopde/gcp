@@ -1,2 +1,19 @@
 Region : Is geographical area in that are we have many Zone for creating high avaibily zone 
             IOWA Region : has 4 zone other Regaion has 3 Zone 
+
+
+
+
+compute Engine: its customize compute service with the help of that we can create and run virtaul machine on Google 
+               - Types: customize machine and predefined machine 
+               - Compute Engine is comes under IAAS 
+               - you can attched local SSD upto 3 TB and persistent disk up to size 64 TB that to encrepted as well 
+               - Booting time is less than 30 sec 
+               - Types of Predefind VMs : 
+                               - General Purpose 
+                               - Compute Optimize 
+                               - Memory Optimize 
+                               - Sole Tenant Node 
+                               - Shared Core 
+                               - Acceleratore Optimize 
+
