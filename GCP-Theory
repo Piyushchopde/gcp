@@ -19,8 +19,9 @@ compute Engine: its customize compute service with the help of that we can creat
                - Pricing Model : 
                           - Sustained Use Discount similar as On-demand in AWS 
                           - Commited Use Discount similar as Reserved instance 
-                          - Spot 
+                          - Spot Discount
+                   
                                  
 
-
+               - Sustained Use Discount: Sustained use discount are applied automatically to use with in a project separately for each region        
 
