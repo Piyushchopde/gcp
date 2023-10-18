@@ -23,5 +23,7 @@ compute Engine: its customize compute service with the help of that we can creat
                    
                                  
 
-               - Sustained Use Discount: Sustained use discount are applied automatically to use with in a project separately for each region        
-
+               - Sustained Use Discount: Sustained use discount are applied automatically to use with in a project separately for each region       
+             
+               -  customize machine: In This type memory will be 0.25 we can not add .020 or something on it 
+                                     Core will be increase like even number 1,2,4,6,8 like this we cant increase old number 
