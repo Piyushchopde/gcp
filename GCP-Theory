@@ -1,10 +1,10 @@
-Region : Is geographical area in that are we have many Zone for creating high avaibily zone 
-            IOWA Region : has 4 zone other Regaion has 3 Zone 
+Region : Is geographical area in that we have many Zone for creating high availability zones?
+            IOWA Region : has 4 zone other region has 3 Zone 
 
 
 
 
-compute Engine: its customize compute service with the help of that we can create and run virtaul machine on Google 
+compute Engine: its customized compute service, with the help of that we can create and run virtual machine on Google 
                - Types: customize machine and predefined machine 
                - Compute Engine is comes under IAAS 
                - you can attched local SSD upto 3 TB and persistent disk up to size 64 TB that to encrepted as well 
@@ -16,11 +16,15 @@ compute Engine: its customize compute service with the help of that we can creat
                                - Sole Tenant Node : Dedicated server provide to customer 
                                - Shared Core : shared core share there core with other customer 
                                - Acceleratore Optimize: A2
-               - Pricing Model : 
-                          - Sustained Use Discount similar as On-demand in AWS 
-                          - Commited Use Discount similar as Reserved instance 
+                     - Pricing Model : 
+                          - Sustained Use Discount, similar to AWS On-demand
+                          - Similar to the Reserved instance, Commited Use Discount
                           - Spot Discount
-                   
+                     - The disk type used in the VM instance is: 
+                        - Balance Persisnt disk 
+                        - Extrem Persisnt disk
+                        - Standrad Persisnt disk
+                        - SSD Persisnt disk
                                  
 
                - Sustained Use Discount: Sustained use discount are applied automatically to use with in a project separately for each region       
