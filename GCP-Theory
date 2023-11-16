@@ -25,6 +25,8 @@ compute Engine: its customized compute service, with the help of that we can cre
                         - Extrem Persisnt disk
                         - Standrad Persisnt disk
                         - SSD Persisnt disk
+Image : Image use to store single DIsk 
+Machine image : Machine image is a compute engine resouces that store all the configuration mrtadata permission and multiple disk
                                  
 
                - Sustained Use Discount: Sustained use discount are applied automatically to use with in a project separately for each region       
