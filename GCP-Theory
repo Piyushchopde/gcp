@@ -1,22 +1,22 @@
 Region : Is geographical area in that we have many Zone for creating high availability zones?
-            IOWA Region : has 4 zone other region has 3 Zone 
+            IOWA Region : has 4 zone other region have 3 Zone 
 
 
 
 
-compute Engine: its customized compute service, with the help of that we can create and run virtual machine on Google 
-               - Types: customize machine and predefined machine 
+compute Engine: its customized compute service; with the help of that, we can create and run virtual machine on Google 
+Types: customize machine and predefined machine 
                - Compute Engine is comes under IAAS 
-               - you can attched local SSD upto 3 TB and persistent disk up to size 64 TB that to encrepted as well 
+You can attach a local SSD upto 3 TB and persistent disk up to 64 TB that  encrepted as well 
                - Booting time is less than 30 sec 
                - Types of Predefind VMs : 
-                               - General Purpose : E2,N1,N2,N2D,Tau,T2D
+                General Purpose : E2,N1,N2,N2D,Tau,T2D
                                - Compute Optimize :C2,C2D
                                - Memory Optimize : M1,M2
                                - Sole Tenant Node : Dedicated server provide to customer 
                                - Shared Core : shared core share there core with other customer 
                                - Acceleratore Optimize: A2
-                     - Pricing Model : 
+                - Pricing Model : 
                           - Sustained Use Discount, similar to AWS On-demand
                           - Similar to the Reserved instance, Commited Use Discount
                           - Spot Discount
@@ -27,11 +27,20 @@ compute Engine: its customized compute service, with the help of that we can cre
                         - SSD Persisnt disk
 
 
-               - Sustained Use Discount: Sustained use discount are applied automatically to use with in a project separately for each region       
-             
-               -  customize machine: In This type memory will be 0.25 we can not add .020 or something on it 
+Sustained Use Discount: Sustained use discount are applied automatically to use with in a project, separately for each region       
+                
+               - customize machine: In This type, memory will be 0.25; we can not add .020 or something on it 
                                      Core will be increase like even number 1,2,4,6,8 like this we cant increase old number 
 
-Image : Image use to store single DIsk 
-Machine image : Machine image is a compute engine resouces that store all the configuration mrtadata permission and multiple disk
+Image : Image used to store single Disk 
+Machine image: Machine image is a compute engine resource that stores all the configuration mrtadata permission and multiple disk
 All images are stored in cloud storage buckets 
+
+
+Storage: 
+Cloud Storage: Cloud Storage is a service for storing your object in google Cloud. An object is an immutable piece of data consisting a file of any existing size and format 
+Storage class:
+                -  Standrad storage 
+                -  nearline Storage
+                -  Coldline storage 
+                -  archive stoarge 
