@@ -38,9 +38,24 @@ All images are stored in cloud storage buckets
 
 
 Storage: 
+Data Store Option in GCP:
+                    1) Cloud SQL : Fully managed RDBMS service in GCP and its PAAS Service 
+                              - mysql
+                              - PostGreSQL
+                              - Microsft SQL Server  
+                   2) Cloud Spanner: A Google-developed in-house product.
+                              - It works with RDBMS and NoSQL databases.
+                              - Supported Horizontal scaling  
+
+                    3) Big Query : Petabyte-scale 
+                    4) Big Table 
+                    5) Cloud Storage 
+                    6) File Storge 
 Cloud Storage: Cloud Storage is a service for storing your object in google Cloud. An object is an immutable piece of data consisting a file of any existing size and format 
 Storage class:
                 -  Standrad storage 
                 -  nearline Storage
                 -  Coldline storage 
                 -  archive stoarge 
+Go
+
